@@ -1,0 +1,19 @@
+{
+  "ScopeId": "curriculum-2020-3000",
+  "Title": "2020 修订版课标 3000 条",
+  "IsComplete": true,
+  "EntryCount": 3000,
+  "AliasCount": 64,
+  "LevelCounts": {
+    "0": 1500,
+    "1": 499,
+    "2": 1001
+  },
+  "CaseInsensitiveHeadwordCount": 2995,
+  "OfficialPrintedEntries": 3000,
+  "Source": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517522153664167.pdf",
+  "SourcePdfSha256": "8ebd6bb12e9eb1c58e422ee01b540a4a71d2e681a4c4a764a36ee3a34b21c1be",
+  "GeneratedJsonSha256": "b67b1e83dd7c3cf0352bd7db9edb96cced91e2dc4bac947969d1656ac42d1e90",
+  "MissingPhonetics": [],
+  "Limitations": "完整指附录正文 3000 条范围与明确别名，不是全部义项、搭配和例句均经教学审校。官方并列括注仍按一个条目计；国名参考表不另算。没有自动转成 2025 修订版或宣称某届江苏高考实施范围。"
+}

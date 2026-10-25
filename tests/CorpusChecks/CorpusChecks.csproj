@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/WordCoach.Core/WordCoach.Core.csproj" />
+    <Compile Include="../../src/WordCoach.App/Services/CoreVocabulary.cs" Link="CoreVocabulary.cs" />
+    <Compile Include="../../src/WordCoach.App/Services/ExtensionVocabulary.cs" Link="ExtensionVocabulary.cs" />
+    <EmbeddedResource Include="../../src/WordCoach.App/Assets/vocabulary.json" Link="Assets/vocabulary.json" />
+    <EmbeddedResource Include="../../src/WordCoach.App/Assets/core-vocabulary.json" Link="Assets/core-vocabulary.json" />
+    <EmbeddedResource Include="../../src/WordCoach.App/Assets/extension-vocabulary.json" Link="Assets/extension-vocabulary.json" />
+  </ItemGroup>
+</Project>

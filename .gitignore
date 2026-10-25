@@ -1,0 +1,34 @@
+# Build outputs and local tooling
+**/bin/
+**/obj/
+artifacts/
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+*.user
+*.suo
+*.pdb
+*.log
+
+# Personal profiles and learning records
+**/Data/
+**/Profiles/
+**/profiles.json*
+**/learning-data*.json
+**/before-restore-*.json
+**/旧版原始记录.json
+qa/
+qa-v*/
+
+# Large dictionary / releases are distributed through GitHub Releases
+**/dictionary.db
+**/*.building.db
+*.zip
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

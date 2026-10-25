@@ -1,0 +1,1408 @@
+[
+  {
+    "Id": "ext-aa5c940c21a7b083",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-mindful",
+    "Aliases": [],
+    "Term": "mindful",
+    "Phonetic": "ˈmaɪndfəl",
+    "Meaning": "adj. 留意的；意识到的",
+    "Phrases": [
+      "be mindful of 留意；注意到",
+      "mindful consumption 有意识的消费"
+    ],
+    "Example": "自编例句：Be mindful of the time you spend on your phone. 留意你花在手机上的时间。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读B。食物浪费语境，强调主动留意。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：be mindful of 可迁移到时间、资源和行为提醒，学习固定搭配的阅读义。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-72ca19fe769534de",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-jaw-dropping",
+    "Aliases": [],
+    "Term": "jaw-dropping",
+    "Phonetic": "ˈdʒɔːˌdrɒpɪŋ",
+    "Meaning": "adj. 令人惊叹的；令人震惊的",
+    "Phrases": [
+      "jaw-dropping scenery 令人惊叹的景色",
+      "a jaw-dropping amount 惊人的数量"
+    ],
+    "Example": "自编例句：The magician finished with a jaw-dropping trick. 魔术师以一个令人惊叹的戏法收尾。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读B。用于评价数量之惊人，不是字面上的下巴动作。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：形象化复合词；当前仅有单篇数量描述，暂不作为默认背诵项。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-8b26ff37617dc19e",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-blemished",
+    "Aliases": [],
+    "Term": "blemished",
+    "Phonetic": "ˈblemɪʃt",
+    "Meaning": "adj. 有瑕疵的；有斑点的",
+    "Phrases": [
+      "blemished fruit 有斑点的水果",
+      "a blemished surface 有瑕疵的表面"
+    ],
+    "Example": "自编例句：The shop sells blemished apples at a lower price. 这家店以较低价格出售表皮有斑点的苹果。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读B。文章给出中文注释；可结合词根 blemish 记忆。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：原卷已有中文注释；未见额外跨语境入选依据，保留查阅。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-6d1edcfacc01a4ba",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-round out",
+    "Aliases": [],
+    "Term": "round out",
+    "Phonetic": "",
+    "Meaning": "使完整；使充实",
+    "Phrases": [
+      "round out a meal 使一餐更丰富",
+      "round out an experience 使经历更完整"
+    ],
+    "Example": "自编例句：A short walk rounded out our afternoon. 一次短暂的散步让我们的下午更加充实。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读B。试卷使用 rounding out；不要只按圆形理解。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：补充完整义可用，但目前只核对单篇，先降低候选规模、保留查阅。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-3ea952ec1db24596",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-down the road",
+    "Aliases": [],
+    "Term": "down the road",
+    "Phonetic": "",
+    "Meaning": "将来；今后",
+    "Phrases": [
+      "benefits down the road 将来的好处",
+      "problems down the road 今后的问题"
+    ],
+    "Example": "自编例句：A little practice now will help you down the road. 现在的一点练习会在将来帮到你。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读B。在保存食物供日后使用的语境中取比喻义。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：作为将来时间标记可跨话题使用；和字面沿路义分开。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "教材检出字面义沿路；本条学习比喻义将来，单独安排",
+    "EntryKind": "Sense",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-34487ce95324ae29",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-dream up",
+    "Aliases": [],
+    "Term": "dream up",
+    "Phonetic": "",
+    "Meaning": "想出，尤其指有创意的计划或主意",
+    "Phrases": [
+      "dream up a plan 想出一个计划",
+      "dream up an excuse 编造借口"
+    ],
+    "Example": "自编例句：Who dreamed up the idea of a library for plants? 是谁想出了植物图书馆这个点子？",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读C。试卷使用被动形式 dreamed up。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：表示想出或构想，可用于计划、方法和故事创意。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-0073ee07080718db",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-roll out",
+    "Aliases": [],
+    "Term": "roll out",
+    "Phonetic": "",
+    "Meaning": "推出；逐步推广",
+    "Phrases": [
+      "roll out a service 推出服务",
+      "roll out nationwide 在全国推广"
+    ],
+    "Example": "自编例句：The town will roll out free evening classes next month. 这座小城下月将推出免费夜校课程。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读C。试卷为 roll it out，表示推广养鸡项目。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：表示推出并推广服务或方案，可用于社会、科技和生活文章。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf",
+      "https://dictionary.cambridge.org/dictionary/english/roll-out"
+    ]
+  },
+  {
+    "Id": "ext-d045e3e8aaab1573",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-embark on",
+    "Aliases": [],
+    "Term": "embark on",
+    "Phonetic": "",
+    "Meaning": "开始从事；着手进行",
+    "Phrases": [
+      "embark on a project 开始一个项目",
+      "embark on a journey 踏上旅程"
+    ],
+    "Example": "自编例句：We are ready to embark on a new research project. 我们准备开始一个新的研究项目。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读C。第30题直接考查该短语的语境含义。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：表示着手新活动，搭配项目、学习和旅程；入选根据独立词典用法，不因猜词题加分。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/embark-on"
+    ]
+  },
+  {
+    "Id": "ext-01438f9c223fad9c",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-ground-breaking",
+    "Aliases": [],
+    "Term": "ground-breaking",
+    "Phonetic": "ˈɡraʊndˌbreɪkɪŋ",
+    "Meaning": "adj. 开创性的；突破性的",
+    "Phrases": [
+      "ground-breaking research 开创性研究",
+      "a ground-breaking discovery 突破性发现"
+    ],
+    "Example": "自编例句：Her ground-breaking design uses less energy. 她的开创性设计消耗更少的能源。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读D。复合形容词；也常写作 groundbreaking。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出，且是可解释的复合词，默认不再推荐。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：选择性必修 第三册 PDF p.62",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-adcbf60c01c985ee",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-align",
+    "Aliases": [],
+    "Term": "align",
+    "Phonetic": "əˈlaɪn",
+    "Meaning": "v. 使对齐；使一致",
+    "Phrases": [
+      "align A with B 使A与B对齐或一致",
+      "align with a goal 与目标一致"
+    ],
+    "Example": "自编例句：Please align the pictures with the top of the page. 请把图片与页面顶端对齐。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读D。试卷使用 aligned 描述牙齿排列。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：原卷已注中文；该次牙齿排列语境不足以证明必须单独记忆。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-0addbb3521001d3d",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-overturn",
+    "Aliases": [],
+    "Term": "overturn",
+    "Phonetic": "ˌəʊvəˈtɜːn",
+    "Meaning": "v. 推翻；使翻倒",
+    "Phrases": [
+      "overturn a decision 推翻决定",
+      "overturn a belief 推翻一种看法"
+    ],
+    "Example": "自编例句：The new evidence may overturn the old explanation. 新证据可能推翻原来的解释。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读D。研究推翻传统观点，关注抽象宾语搭配。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：可与决定、解释和既有观点搭配，帮助理解论证中的转折。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf",
+      "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_5000_by_CEFR_level.pdf"
+    ]
+  },
+  {
+    "Id": "ext-5b9fcbe57e7f1231",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-interplay",
+    "Aliases": [],
+    "Term": "interplay",
+    "Phonetic": "ˈɪntəpleɪ",
+    "Meaning": "n. 相互作用；相互影响",
+    "Phrases": [
+      "the interplay between A and B A与B之间的相互作用",
+      "a complex interplay 复杂的相互作用"
+    ],
+    "Example": "自编例句：The story explores the interplay between memory and imagination. 这个故事探讨了记忆与想象之间的相互作用。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 阅读D。语言演变研究语境；可用于多因素分析。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：当前依据局限于一篇专业研究，不因单次出现扩张背诵范围。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-162cc4ccca78f402",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-inconsistency",
+    "Aliases": [],
+    "Term": "inconsistency",
+    "Phonetic": "ˌɪnkənˈsɪstənsi",
+    "Meaning": "n. 不一致；前后矛盾",
+    "Phrases": [
+      "inconsistency in data 数据中的不一致",
+      "an inconsistency between A and B A与B之间的不一致"
+    ],
+    "Example": "自编例句：We found an inconsistency between the two reports. 我们发现这两份报告有一处不一致。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 语法填空。试卷为复数 inconsistencies，涉及管理标准。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 语法填空",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：consistent 词族派生；先在词族解释中认识，需要时个人加入。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-ad115a6382490080",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-connectivity",
+    "Aliases": [],
+    "Term": "connectivity",
+    "Phonetic": "ˌkɒnekˈtɪvəti",
+    "Meaning": "n. 连通性；连接程度",
+    "Phrases": [
+      "improve connectivity 改善连通性",
+      "network connectivity 网络连接性"
+    ],
+    "Example": "自编例句：The new bridge improves connectivity between the villages. 这座新桥改善了村庄之间的连通性。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 语法填空。用于大熊猫栖息地及种群连通性。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 语法填空",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出；连通性是具体语境中的派生概念。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：选择性必修 第二册 PDF p.61",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-570579c3913ca54e",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-a host of",
+    "Aliases": [],
+    "Term": "a host of",
+    "Phonetic": "",
+    "Meaning": "许多；大量",
+    "Phrases": [
+      "a host of reasons 许多原因",
+      "a host of opportunities 大量机会"
+    ],
+    "Example": "自编例句：The festival offers a host of activities for families. 这个节日为家庭提供了丰富的活动。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 语法填空。不要把 host 仅理解为主人或主持人。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 语法填空",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出，作为个人缺口时可自行加入。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：选择性必修 第二册 PDF p.60、选择性必修 第二册 PDF p.82、选择性必修 第二册 PDF p.83",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-d3d5714eca6c9721",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-bite back",
+    "Aliases": [],
+    "Term": "bite back",
+    "Phonetic": "",
+    "Meaning": "忍住不说；抑制情绪表达",
+    "Phrases": [
+      "bite back a reply 忍住不回答",
+      "bite back anger 忍住怒气"
+    ],
+    "Example": "自编例句：She bit back an angry reply and listened. 她忍住没有生气地回嘴，而是继续听。",
+    "SourceExcerpt": "出现依据：2022年新高考Ⅰ卷 · 读后续写。试卷叙述者抑制懊恼；过去式 bit，过去分词 bitten。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2022年新高考Ⅰ卷 · 读后续写",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：偏人物情绪叙事，当前跨语境证据不足，降为可选表达。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://m.jszs.com/uploads/file/202312/06/1701849185494197.pdf"
+    ]
+  },
+  {
+    "Id": "ext-32b69fdd50dca7d5",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-minimalism",
+    "Aliases": [],
+    "Term": "minimalism",
+    "Phonetic": "ˈmɪnɪməlɪzəm",
+    "Meaning": "n. 极简主义",
+    "Phrases": [
+      "digital minimalism 数字极简主义",
+      "minimalism in design 设计中的极简主义"
+    ],
+    "Example": "自编例句：Minimalism helped him keep only the apps he needed. 极简主义帮助他只保留自己需要的应用。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。试卷书籍主题词；是否需要记忆由个人反馈决定。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：文章书籍主题词，非默认必背范围。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-530b71bb4695c156",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-intolerable",
+    "Aliases": [],
+    "Term": "intolerable",
+    "Phonetic": "ɪnˈtɒlərəbəl",
+    "Meaning": "adj. 无法忍受的；难以容忍的",
+    "Phrases": [
+      "intolerable noise 难以忍受的噪声",
+      "an intolerable situation 无法忍受的处境"
+    ],
+    "Example": "自编例句：The constant alarm made the noise intolerable. 持续响起的警报让噪声令人无法忍受。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。可与 tolerable、tolerate 联系记忆。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：tolerate/tolerable 词族变形；不把可分析的否定派生自动当作生词。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-2bdd9ae960c9f23c",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-declutter",
+    "Aliases": [],
+    "Term": "declutter",
+    "Phonetic": "ˌdiːˈklʌtə",
+    "Meaning": "v. 清理杂物；精简；n. 清理，精简",
+    "Phrases": [
+      "declutter a room 清理房间",
+      "a digital declutter 数字生活清理"
+    ],
+    "Example": "自编例句：I decluttered my desk before starting the project. 开始这个项目之前，我清理了书桌。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。第29题直接考查；文中用于精简数字活动。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：删除原来的猜词题提权；该次数字生活主题不足以支持默认入选。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-00bddb36a62f5719",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-solitude",
+    "Aliases": [],
+    "Term": "solitude",
+    "Phonetic": "ˈsɒlɪtjuːd",
+    "Meaning": "n. 独处；独居",
+    "Phrases": [
+      "in solitude 独自一人",
+      "enjoy solitude 享受独处"
+    ],
+    "Example": "自编例句：She enjoys the solitude of an early morning walk. 她享受清晨独自散步的宁静。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。试卷给出中文注释；独处不必然等于孤独难受。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：原卷已有中文注释，暂留查阅和个人主动积累。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-25e9b42c2007aad0",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-mindless",
+    "Aliases": [],
+    "Term": "mindless",
+    "Phonetic": "ˈmaɪndləs",
+    "Meaning": "adj. 不动脑筋的；盲目的；机械的",
+    "Phrases": [
+      "mindless scrolling 无意识地刷屏",
+      "mindless repetition 机械重复"
+    ],
+    "Example": "自编例句：Replace mindless scrolling with ten minutes of reading. 用十分钟阅读代替无意识地刷屏。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。数字设备使用语境，关注否定后缀 -less。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：mind + -less 的可分析派生；默认附在词族学习而不增加新词负担。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-3dded14f7594b750",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-make the case for",
+    "Aliases": [],
+    "Term": "make the case for",
+    "Phonetic": "",
+    "Meaning": "论证……的合理性；提出支持……的理由",
+    "Phrases": [
+      "make the case for change 论证变革的必要性",
+      "make a case for 提出支持……的理由"
+    ],
+    "Example": "自编例句：The report makes the case for a safer crossing. 这份报告论证了设置更安全过街设施的必要性。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。书籍目的所在的首句表达；case 在这里是论据。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：概括论证支持关系，能帮助识别作者的主张和理由。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf",
+      "https://dictionary.cambridge.org/us/dictionary/english/make-a-case-for"
+    ]
+  },
+  {
+    "Id": "ext-a8f7bca0282025a1",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-draw on",
+    "Aliases": [],
+    "Term": "draw on",
+    "Phonetic": "",
+    "Meaning": "利用；借鉴",
+    "Phrases": [
+      "draw on experience 借鉴经验",
+      "draw on evidence 利用证据"
+    ],
+    "Example": "自编例句：We can draw on your experience to improve the plan. 我们可以借鉴你的经验来改进计划。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。作者以实验经历支撑建议；独立记忆整个短语。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出，作为个人缺口时可自行加入。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：必修 第一册 PDF p.39、必修 第三册 PDF p.52、必修 第三册 PDF p.54",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-1f98d27047dd11fe",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-act on",
+    "Aliases": [],
+    "Term": "act on",
+    "Phonetic": "",
+    "Meaning": "根据……采取行动；依照……行事",
+    "Phrases": [
+      "act on advice 按建议行动",
+      "act on information 根据信息行动"
+    ],
+    "Example": "自编例句：The team acted on her advice and checked the figures. 团队按照她的建议核查了数字。",
+    "SourceExcerpt": "出现依据：2023年新课标Ⅰ卷 · 阅读C。文章强调把理念落实为行动。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2023年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：表达把建议或信息转成行动的关系，适合多种阅读话题。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://cdn.zizzs.com/zixunzhan/202310/ad8ab2c7-82fe-465f-8c40-f4619572b696.pdf"
+    ]
+  },
+  {
+    "Id": "ext-5791798a5d57ca52",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-reschedule",
+    "Aliases": [],
+    "Term": "reschedule",
+    "Phonetic": "ˌriːˈʃedjuːl",
+    "Meaning": "v. 重新安排时间；改期",
+    "Phrases": [
+      "reschedule a meeting 重新安排会议",
+      "reschedule for Friday 改到星期五"
+    ],
+    "Example": "自编例句：We rescheduled the meeting for Friday afternoon. 我们把会议改到了星期五下午。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 听力第4题选项。确认为试题选项出现；不据此宣称阅读核心词。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 听力第4题选项",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：当前证据只来自听力选项，且 re- 构词透明，不据此加入必背包。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-dde6e8974b46a1ed",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-guardian",
+    "Aliases": [],
+    "Term": "guardian",
+    "Phonetic": "ˈɡɑːdiən",
+    "Meaning": "n. 监护人；守护者",
+    "Phrases": [
+      "a parent or guardian 家长或监护人",
+      "legal guardian 法定监护人"
+    ],
+    "Example": "自编例句：A guardian must sign the form for a child. 监护人必须为孩子签署这份表格。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读A。志愿活动报名条件语境。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读A",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：报名、活动说明中的监护人义具有独立生活阅读价值。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-c07dcf016acb1812",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-sunscreen",
+    "Aliases": [],
+    "Term": "sunscreen",
+    "Phonetic": "ˈsʌnskriːn",
+    "Meaning": "n. 防晒霜",
+    "Phrases": [
+      "apply sunscreen 涂防晒霜",
+      "bring sunscreen 带防晒霜"
+    ],
+    "Example": "自编例句：Put sunscreen in your bag before the trip. 出发前把防晒霜放进包里。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读A。志愿活动携带物品清单中的生活词。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读A",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：活动物品清单中的具体生活物品，按个人实际缺口选学。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-85b767fdf846316e",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-rain or shine",
+    "Aliases": [],
+    "Term": "rain or shine",
+    "Phonetic": "",
+    "Meaning": "风雨无阻；不论天气如何",
+    "Phrases": [
+      "rain or shine 每逢使用均表示不受天气影响",
+      "work rain or shine 风雨无阻地工作"
+    ],
+    "Example": "自编例句：The volunteers meet every Sunday, rain or shine. 志愿者每周日都会见面，风雨无阻。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读A。第23题须将短语与坏天气也工作对应。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读A",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：公告与活动说明中表示不受天气影响，需要整体识别。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-35140dc7eff9f078",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-holistic",
+    "Aliases": [],
+    "Term": "holistic",
+    "Phonetic": "həʊˈlɪstɪk",
+    "Meaning": "adj. 整体的；全面的",
+    "Phrases": [
+      "a holistic approach 整体性方法",
+      "a holistic view 全面的看法"
+    ],
+    "Example": "自编例句：A holistic review considers both results and effort. 全面的评价会同时考虑结果和努力。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读B。文章介绍整体性医疗理念；学习词义不等于医学建议。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：当前出现集中在专业理念介绍，不扩大为默认必背项。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-e390f75136c4fc3f",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-ahead of one's time",
+    "Aliases": [],
+    "Term": "ahead of one's time",
+    "Phonetic": "",
+    "Meaning": "超越某人所处的时代；思想超前",
+    "Phrases": [
+      "be ahead of one's time 思想超前",
+      "a design ahead of its time 超越时代的设计"
+    ],
+    "Example": "自编例句：Her ideas were ahead of her time. 她的想法超越了她所处的时代。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读B。试卷为 ahead of my time；代词随主语变化。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：评价思想或设计超前，整体含义不是简单的时间先后。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-6cedf56f2885883b",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-have the last laugh",
+    "Aliases": [],
+    "Term": "have the last laugh",
+    "Phonetic": "",
+    "Meaning": "笑到最后；最终证明自己是对的",
+    "Phrases": [
+      "have the last laugh 最终获胜",
+      "get the last laugh 笑到最后"
+    ],
+    "Example": "自编例句：They doubted his plan, but he had the last laugh. 他们怀疑他的计划，但他最终证明了自己。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读B。不要按最后一次发笑直译。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读B",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：叙事习语可选；当前证据不足以放入默认精选。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-8db16ffd854c36cd",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-multitask",
+    "Aliases": [],
+    "Term": "multitask",
+    "Phonetic": "ˌmʌltiˈtɑːsk",
+    "Meaning": "v. 同时处理多项任务",
+    "Phrases": [
+      "try to multitask 尝试同时处理多项任务",
+      "multitask while studying 学习时兼做其他事"
+    ],
+    "Example": "自编例句：I make more mistakes when I try to multitask. 我试着同时处理多项任务时会犯更多错误。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读C。数字阅读行为语境，multi- 表示多。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：multi- + task 的可分析构词，适合语境解释，不自动独立排课。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-55b4eea1eb77a78d",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-abstraction",
+    "Aliases": [],
+    "Term": "abstraction",
+    "Phonetic": "æbˈstrækʃən",
+    "Meaning": "n. 抽象；抽象概念；抽象思维",
+    "Phrases": [
+      "mental abstraction 抽象思维",
+      "a level of abstraction 抽象层次"
+    ],
+    "Example": "自编例句：A map is an abstraction that leaves out many details. 地图是一种省略了许多细节的抽象表示。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读C。文章把推断和识别主旨等任务进行比较。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：abstract 词族的抽象名词，先随原词解释，需要时再单独练习。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-211bb5909840160c",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-shine through",
+    "Aliases": [],
+    "Term": "shine through",
+    "Phonetic": "",
+    "Meaning": "显露出来；清楚地表现出来",
+    "Phrases": [
+      "kindness shines through 善意显露出来",
+      "talent shines through 才华显露出来"
+    ],
+    "Example": "自编例句：Her confidence shone through during the interview. 面试中她的自信清楚地表现了出来。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读C。第28题直接考查；过去式 shone。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读C",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：形容品质或能力显露，独立词典确认该用法；不因猜词题加分。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf",
+      "https://dictionary.cambridge.org/dictionary/english/shine-through"
+    ]
+  },
+  {
+    "Id": "ext-2e4561fb0760e805",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-outnumber",
+    "Aliases": [],
+    "Term": "outnumber",
+    "Phonetic": "ˌaʊtˈnʌmbə",
+    "Meaning": "v. 在数量上超过",
+    "Phrases": [
+      "A outnumbers B A在数量上超过B",
+      "be outnumbered 数量处于劣势"
+    ],
+    "Example": "自编例句：At the event, students outnumbered teachers. 在这次活动中，学生的人数超过了教师。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读D。观察记录与实体标本数据的数量比较。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：直接表达数量比较关系，适用于人群、调查和研究描述。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-3c6a8279d628d160",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-specimen",
+    "Aliases": [],
+    "Term": "specimen",
+    "Phonetic": "ˈspesɪmən",
+    "Meaning": "n. 标本；样本",
+    "Phrases": [
+      "collect specimens 采集标本",
+      "a plant specimen 植物标本"
+    ],
+    "Example": "自编例句：Each specimen has a label showing where it was found. 每份标本都有标签，注明其发现地点。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读D。试卷使用复数 specimens，并提供中文注释。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出且原卷有注释，默认不重复推荐。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：必修 第三册 PDF p.84",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-b277fd623676a525",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-dataset",
+    "Aliases": [],
+    "Term": "dataset",
+    "Phonetic": "ˈdeɪtəset",
+    "Meaning": "n. 数据集",
+    "Phrases": [
+      "analyse a dataset 分析数据集",
+      "a large dataset 大型数据集"
+    ],
+    "Example": "自编例句：The dataset contains observations from twelve parks. 这个数据集包含来自十二个公园的观察记录。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读D。科学研究文章常见构词，data + set。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：研究语境下的透明复合词 data + set，默认只查阅。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-f1224fc90e6b77cb",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-eye-catching",
+    "Aliases": [],
+    "Term": "eye-catching",
+    "Phonetic": "ˈaɪˌkætʃɪŋ",
+    "Meaning": "adj. 引人注目的；抢眼的",
+    "Phrases": [
+      "an eye-catching design 引人注目的设计",
+      "eye-catching colours 醒目的颜色"
+    ],
+    "Example": "自编例句：The eye-catching poster brought more visitors. 这张醒目的海报吸引了更多游客。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 阅读D。研究讨论外观醒目的物种较易被记录。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 阅读D",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：译林教材已检出，默认不重复推荐。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "译林教材已检出：必修 第二册 PDF p.37、必修 第二册 PDF p.112、必修 第二册 PDF p.117",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-8f10a68d54a88afc",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-manuscript",
+    "Aliases": [],
+    "Term": "manuscript",
+    "Phonetic": "ˈmænjʊskrɪpt",
+    "Meaning": "n. 稿件；手稿",
+    "Phrases": [
+      "submit a manuscript 提交稿件",
+      "revise a manuscript 修改稿件"
+    ],
+    "Example": "自编例句：She checked the manuscript once more before sending it. 她在寄出稿件之前又检查了一遍。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。试卷给出中文注释，写作出版语境。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：原卷给中文注释且场景偏出版，暂列可选。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-f506fc296dddaaa6",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-thesaurus",
+    "Aliases": [],
+    "Term": "thesaurus",
+    "Phonetic": "θɪˈsɔːrəs",
+    "Meaning": "n. 同义词词典",
+    "Phrases": [
+      "consult a thesaurus 查阅同义词词典",
+      "an online thesaurus 在线同义词词典"
+    ],
+    "Example": "自编例句：A thesaurus can suggest alternatives, but check the context. 同义词词典能提供替换词，但要核对语境。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。复数可为 thesauruses 或 thesauri。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：专门工具名称，原卷有说明；无需把所有出版用语纳入背诵。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-4d53caf87c9ac4e7",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-differentiate",
+    "Aliases": [],
+    "Term": "differentiate",
+    "Phonetic": "ˌdɪfəˈrenʃieɪt",
+    "Meaning": "v. 区分；使有区别",
+    "Phrases": [
+      "differentiate A from B 区分A与B",
+      "differentiate between A and B 区分A与B"
+    ],
+    "Example": "自编例句：Examples help us differentiate one meaning from another. 例句帮助我们区分不同的词义。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。试卷使用 differentiating，强调精确释义。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：表示区分概念或事物，可用于解释和比较；以阅读识义为目标。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf",
+      "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_5000_by_CEFR_level.pdf"
+    ]
+  },
+  {
+    "Id": "ext-f77c3f11846566e2",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-idiomatic",
+    "Aliases": [],
+    "Term": "idiomatic",
+    "Phonetic": "ˌɪdiəˈmætɪk",
+    "Meaning": "adj. 符合语言习惯的；含习语的",
+    "Phrases": [
+      "idiomatic English 地道的英语",
+      "idiomatic expressions 习惯表达"
+    ],
+    "Example": "自编例句：She checks how a phrase is used to make her English more idiomatic. 她会检查短语的用法，让英语更加地道。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。词典收录习语及组合表达的语境。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：主要用于语言学习说明，当前范围内优先级不足。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-998278f2a948fdd3",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-leaf through",
+    "Aliases": [],
+    "Term": "leaf through",
+    "Phonetic": "",
+    "Meaning": "匆匆翻阅；浏览",
+    "Phrases": [
+      "leaf through a book 翻阅一本书",
+      "leaf through the pages 快速翻看书页"
+    ],
+    "Example": "自编例句：I leafed through the magazine while waiting. 等候时我随手翻了翻那本杂志。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。leaf 作动词；不是逐字精读。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：描述翻阅材料的方式，学习整体动词短语。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-983bdfa8f8c2abe7",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-cast one's eye over",
+    "Aliases": [],
+    "Term": "cast one's eye over",
+    "Phonetic": "",
+    "Meaning": "粗略看一眼；浏览",
+    "Phrases": [
+      "cast your eye over a page 浏览一页",
+      "cast an eye over a draft 浏览草稿"
+    ],
+    "Example": "自编例句：Could you cast your eye over my draft? 你能快速看一眼我的草稿吗？",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 七选五。试卷使用 casting your eye over；代词随对象变化。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 七选五",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：与浏览类表达重叠，优先保留 leaf through，避免一次塞入多个近义短语。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-dcdadf7a5c7b46b1",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-demotivate",
+    "Aliases": [],
+    "Term": "demotivate",
+    "Phonetic": "ˌdiːˈməʊtɪveɪt",
+    "Meaning": "v. 使失去动力；使泄气",
+    "Phrases": [
+      "be demotivated by 因……而失去动力",
+      "demotivate a learner 使学习者泄气"
+    ],
+    "Example": "自编例句：Constant comparison can demotivate a learner. 不断地比较会让学习者失去动力。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 完形填空。试卷使用 demotivated，与 motivated 对照。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 完形填空",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：de- + motivate 派生，先解释词族而非视为独立未知词。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-df349a092ad7a765",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-retrace",
+    "Aliases": [],
+    "Term": "retrace",
+    "Phonetic": "rɪˈtreɪs",
+    "Meaning": "v. 沿原路返回；重走；追溯",
+    "Phrases": [
+      "retrace one's steps 沿原路返回",
+      "retrace a journey 重走一段旅程"
+    ],
+    "Example": "自编例句：We retraced our steps to find the missing key. 我们沿原路返回寻找丢失的钥匙。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 语法填空。試卷使用 retracing，并给出中文注释。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 语法填空",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：原卷已有注释且 re- 构词可分析，默认不排入。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-40767ab427fd6782",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-apologetic",
+    "Aliases": [],
+    "Term": "apologetic",
+    "Phonetic": "əˌpɒləˈdʒetɪk",
+    "Meaning": "adj. 感到抱歉的；表示歉意的",
+    "Phrases": [
+      "an apologetic smile 歉意的微笑",
+      "be apologetic about 为……感到抱歉"
+    ],
+    "Example": "自编例句：He gave an apologetic smile when he arrived late. 他迟到时露出了歉意的微笑。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 读后续写。人物神态描写，可迁移到读后续写。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 读后续写",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：apology/apologise 词族形容词，先随词族理解，可自行加入写作训练。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Word",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-84755bf4d7f890c0",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-fish out",
+    "Aliases": [],
+    "Term": "fish out",
+    "Phonetic": "",
+    "Meaning": "摸出；从里面找出",
+    "Phrases": [
+      "fish out a key 摸出钥匙",
+      "fish something out of a bag 从包里摸出某物"
+    ],
+    "Example": "自编例句：She fished a ticket out of her coat pocket. 她从外套口袋里摸出一张票。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 读后续写。试卷使用 fished out，描述拿出手机。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 读后续写",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：偏人物动作描写，当前单篇证据不足，保留可选。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-a45a8456bb51d0bb",
+    "ScopeId": "reference-extension-2026-09",
+    "LemmaId": "lemma-wash over",
+    "Aliases": [],
+    "Term": "wash over",
+    "Phonetic": "",
+    "Meaning": "情绪突然袭来；使强烈感受到",
+    "Phrases": [
+      "fear washes over someone 恐惧向某人袭来",
+      "relief washes over someone 某人顿时如释重负"
+    ],
+    "Example": "自编例句：Relief washed over me when I heard the good news. 听到好消息时，我顿时如释重负。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 读后续写。试卷用该表达描写无助感；主语通常是情绪。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 读后续写",
+    "IsFoundation": false,
+    "RecommendationEligible": false,
+    "RecommendationReason": "仅查阅/自选：偏情绪叙事的比喻表达，暂不占用默认阅读缺口学习量。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 0,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  },
+  {
+    "Id": "ext-0d3540ae1d8fc691",
+    "ScopeId": "curated-extension-2026-09",
+    "LemmaId": "lemma-thin out",
+    "Aliases": [],
+    "Term": "thin out",
+    "Phonetic": "",
+    "Meaning": "变稀疏；变少",
+    "Phrases": [
+      "crowds thin out 人群逐渐散去",
+      "thin out gradually 逐渐变稀疏"
+    ],
+    "Example": "自编例句：The crowd began to thin out after the concert. 音乐会结束后，人群开始逐渐散去。",
+    "SourceExcerpt": "出现依据：2024年新课标Ⅰ卷 · 读后续写。试卷描述排队等车的人逐渐减少。\n释义、搭配和例句为软件独立编写，并非原卷整句摘录。",
+    "ExamFrequency": 0,
+    "NecessityScore": 0,
+    "Reasons": [],
+    "Source": "2026-09 精选审核 · 2024年新课标Ⅰ卷 · 读后续写",
+    "IsFoundation": false,
+    "RecommendationEligible": true,
+    "RecommendationReason": "精选候选：描述人群、数量或密度逐渐减少，可在不同叙事中复用。这是编辑取舍，未证明高考跨年高频，也不表示你不会。",
+    "RecommendationPriority": 60,
+    "Coverage": "七册译林教材文字检索未检出；含常见词形，非人工逐页认定",
+    "EntryKind": "Phrase",
+    "EvidenceSources": [
+      "https://static-gkcx.gaokao.cn/upload/zhenti/20240612/1718156490_7990.pdf"
+    ]
+  }
+]

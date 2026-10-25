@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>高中单词计划</AssemblyName>
+    <RootNamespace>WordCoach.App</RootNamespace>
+    <Version>0.5.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WordCoach.Core\WordCoach.Core.csproj" />
+    <EmbeddedResource Include="Assets\vocabulary.json" />
+    <EmbeddedResource Include="Assets\core-vocabulary.json" />
+    <EmbeddedResource Include="Assets\core-scope.json" />
+    <EmbeddedResource Include="Assets\extension-vocabulary.json" />
+    <Content Include="Assets\dictionary.db" Condition="Exists('Assets\dictionary.db')" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="Assets\ECDICT-LICENSE.txt" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="Assets\词典数据来源.md" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
